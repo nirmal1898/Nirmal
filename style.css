@@ -67,6 +67,7 @@ section{
 .btn:hover{
     background:var(--yellow);
     color: #111;
+    text-decoration: none;
 }
 
 .heading{
