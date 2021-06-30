@@ -377,6 +377,8 @@ header .navbar ul li a:hover{
     bottom:7.5rem; right: 2rem;
     z-index: 100;
     display: none;
+    border-radius: 50%;
+    background-color: #111;
 }
 .follow{
     padding: 10px;
