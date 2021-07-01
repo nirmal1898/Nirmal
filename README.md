@@ -131,7 +131,7 @@
             <div class="box">
                 <i class="fas fa-graduation-cap"></i>
                 <span>2019</span>
-                <h3>Tranie At Niktech Solution</h3>
+                <h3>Trainee At Niktech Solution</h3>
                 <p>One of the most experienced and trusted Web Design & Web Development Company in Vadodara. </p>
             </div>
 
