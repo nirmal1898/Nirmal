@@ -228,10 +228,10 @@
                         Maneja, Vadodara, Gujarat
                          </h3>
                          <div class="follow"><label><b>Follow on:</b></label>
-                            <a href="https://www.facebook.com/nirmal1898/"><i class="fab fa-facebook"></i></a>
-                            <a href="https://twitter.com"><i class="fab fa-twitter"></i></a>
-                            <a href="https://www.instagram.com/nirmal_3011/"><i class="fab fa-instagram"></i></a>
-                            <a href="https://www.google.com"><i class="fab fa-google-plus"></i></a>
+                            <a href="https://www.facebook.com/nirmal1898/"  target="_blank"><i class="fab fa-facebook"></i></a>
+                            <a href="https://twitter.com"  target="_blank"><i class="fab fa-twitter"></i></a>
+                            <a href="https://www.instagram.com/nirmal_3011/"  target="_blank"><i class="fab fa-instagram"></i></a>
+                            <a href="https://www.google.com"  target="_blank"><i class="fab fa-google-plus"></i></a>
                         </div>
                 </div>
 
